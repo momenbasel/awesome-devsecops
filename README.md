@@ -227,7 +227,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [ShiftLeft Scan](https://slscan.io)
 * [Snyk](https://snyk.io)
 * [SourceClear](https://www.sourceclear.com)
-* [VulnHawk](https://github.com/momenbasel/vulnhawk) - AI-powered static analysis tool with context-enriched code review. Supports Python, JS/TS, Go, Java, PHP, Ruby. GitHub Action + CLI with SARIF input/output.
+* [VulnHawk](https://github.com/momenbasel/vulnhawk)
 
 
 ## Alerting
